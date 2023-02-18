@@ -447,7 +447,7 @@ function SIGNUPBASEBALL(props) {
               }}
             /> */}
             {/* "http://localhost:60594/" "http://35.72.8.63:37815/ThanksForRegister/" */}
-            <a href="http://localhost:54915/ThanksForRegister/">
+            <a href="http://localhost:34265/ThanksForRegister/">
               <button
                 onClick={handleUpload}
                 className="lets-go inter-bold-black-30px "
